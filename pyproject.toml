@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "rag-company-report"
 version = "1.0.0"
-description = "Production-grade RAG pipeline for company data analysis and report generation"
+description = "LangGraph and Chroma prototype for source-based company report generation"
 authors = []
 readme = "README.md"
 packages = [{include = "src"}]
